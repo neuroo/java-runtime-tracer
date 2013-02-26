@@ -1,0 +1,17 @@
+-java/
++java/lang/reflect/
++java/util/regex/
++java/lang/
+-org/hsqldb
+-org/hibernate
+-org/apache/activemq
+-org/apache/kahadb
+-sun/crypto
+-sun/net/ssl
+-sun/security
+-org/apache/tomcat
+-org/apache/catalina
+-org/apache/log4j
+-apache/commons/logging
+-xerces
+-eclipse/jdt

@@ -1,0 +1,1 @@
+java -Xcheck:jni -agentpath:../build/libtracer.jnilib=filters=./filters.txt,database=./java-trace-test.db Sample
